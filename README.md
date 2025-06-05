@@ -30,7 +30,6 @@
 *   ATmega328P Microcontroller
 *   16x2 Character LCD (HD44780 compatible)
 *   4x3 Matrix Keypad
-*   10k Potentiometer (for LCD contrast)
 *   Breadboard and Jumper Wires
 
 ### Wiring Schematic
